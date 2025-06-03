@@ -22,7 +22,7 @@ This task demonstrates how to create, evaluate, and analyze multiple passwords u
 
 ## 📄 Files Included
 - `task_6_password_report.md`: Report showing password samples, strength scores, and key learnings.
-- `screenshots/`: Optional folder with strength checker results.
+
 
 ---
 
@@ -36,4 +36,3 @@ This task demonstrates how to create, evaluate, and analyze multiple passwords u
 
 ## 📝 Notes
 - All passwords were randomly generated and used strictly for testing.
-- Screenshots are anonymized and blurred if required.
